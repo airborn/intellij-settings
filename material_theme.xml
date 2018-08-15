@@ -3,11 +3,10 @@
     <option name="version" value="2.4.1.5-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="F44336" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="30" />
+    <option name="tabsHeight" value="50" />
     <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="customSidebarHeight" value="20" />
