@@ -4,12 +4,14 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="80cbc4" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="50" />
+    <option name="tabsHeight" value="27" />
     <option name="isCompactStatusBar" value="true" />
     <option name="customSidebarHeight" value="20" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="-3f3fb74c:1653ea73d2c:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
